@@ -1,0 +1,101 @@
+body{
+    height: 80cm;
+    background:
+}
+
+
+
+
+
+
+
+.main video {
+      width: 1260px;
+      background: url(1.mp4);
+      background-position: center;
+      background-size: 100%;
+      height: 80vh;
+      background-repeat: repeat;
+      backface-visibility: 5%;
+      background: rgb(250, 246, 0);
+      
+      
+     
+    
+    
+
+}
+
+ul{
+      float: left;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      
+  }
+  
+  ul li{
+      list-style: none;
+      margin-left: 100px;
+      margin-top: -20px;
+      font-size: 30px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      width: 3.8cm;
+     
+      
+     
+  
+      
+      
+  }
+  
+  ul li a{
+      text-decoration: none;
+      color: rgb(0, 0, 0);
+     
+      
+  }
+  
+  ul li a:hover{
+      
+             color: rgb(255, 0, 0);
+             transition: all .3s;
+             border-color: blueviolet;
+             border-radius: 2cm;
+  }
+
+  .logo1{
+      padding-bottom: 1cm;
+      text-decoration: none;
+      font-family: cursive;
+      color: black;
+      font-size: 150px;
+      text-align: center;
+
+  }
+
+  .logo1 :hover{
+      font-size: 160px;
+      transition: all .3s;
+      color: darkgoldenrod;
+  }
+
+  .logo2 :hover{
+      font-size: 210px;
+       width: 210px;
+       transition: all .3s;
+       
+}
+
+.text1{
+    width: 500px;
+    height: 200px;
+    padding-top: 2cm;
+    padding-left: 2cm;
+    
+   
+}
+
+
+
+
